@@ -1,0 +1,11 @@
+{
+    "name": "inventory",
+    "version": "18.12.1",
+    "description": "inventory",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "private": true,
+    "dependencies": {},
+    "engines": {
+        "node": ">=16"
+    }
+}
